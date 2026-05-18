@@ -1,0 +1,71 @@
+baseURL = "https://your-site.pages.dev/"
+languageCode = "ja"
+title = "釣りブログ"
+theme = "PaperMod"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+# Google Analytics（取得後にIDを入力）
+# googleAnalytics = "G-XXXXXXXXXX"
+
+[params]
+  description = "釣り初心者から上級者まで役立つ情報を発信する釣りブログ"
+  author = "釣りブログ管理人"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+
+  [params.homeInfoParams]
+    Title = "釣りブログへようこそ"
+    Content = "初心者から上級者まで役立つ釣り情報を発信しています。ロッド・リール・ルアーのレビューや釣り場レポートをお届けします。"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # アフィリエイトリンクなどの生HTMLを許可する
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "ホーム"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "記事一覧"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    identifier = "categories"
+    name = "カテゴリ"
+    url = "/categories/"
+    weight = 30
+  [[menu.main]]
+    identifier = "tags"
+    name = "タグ"
+    url = "/tags/"
+    weight = 40
+  [[menu.main]]
+    identifier = "search"
+    name = "検索"
+    url = "/search/"
+    weight = 50
