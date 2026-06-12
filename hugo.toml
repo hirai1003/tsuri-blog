@@ -8,8 +8,9 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 
-# Google Analytics（取得後にIDを入力）
-# googleAnalytics = "G-XXXXXXXXXX"
+# Google Analytics
+[services.googleAnalytics]
+ID = "G-2EWZR8LS89"
 
 [params]
   description = "釣り初心者から上級者まで役立つ情報を発信する釣りブログ"
