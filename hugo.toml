@@ -29,8 +29,11 @@ ID = "G-2EWZR8LS89"
     Content = "初心者から上級者まで役立つ釣り情報を発信しています。ロッド・リール・ルアーのレビューや釣り場レポートをお届けします。"
 
   [[params.socialIcons]]
-    name = "twitter"
-    url = "https://twitter.com/"
+    name = "x"
+    url = "https://x.com/ZGcabmefjiy2jk1"
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/yuuma_fishing/"
 
 [markup]
   [markup.goldmark]
@@ -70,3 +73,13 @@ ID = "G-2EWZR8LS89"
     name = "検索"
     url = "/search/"
     weight = 50
+  [[menu.main]]
+    identifier = "contact"
+    name = "お問い合わせ"
+    url = "/contact/"
+    weight = 60
+  [[menu.main]]
+    identifier = "privacy"
+    name = "プライバシーポリシー"
+    url = "/privacy-policy/"
+    weight = 70
