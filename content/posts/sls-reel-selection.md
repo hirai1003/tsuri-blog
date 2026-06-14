@@ -6,21 +6,23 @@ tags: ["スーパーライトショアジギング", "SLS", "タックル", "リ
 description: "スーパーライトショアジギングのリール選びで迷っている人向けに、番手・ギア比・予算ごとの選び方と候補をまとめました。"
 ---
 
-ロッドと同じくらい迷うのがリール選び。番手・ギア比・予算と考えることが多くて最初はわかりにくいですよね。
+ロッドと同じくらい迷うのがリール選び。番手・ギア比・予算と、考えることが多くて最初はわかりにくいですよね。
 
-自分がSLSをやってきて気にしていることをベースに、選び方をまとめました。
+リールはロッド以上に「価格による差」が出やすいパーツで、選び方を間違えると買い直しになりがちです。この記事では、自分がSLSをやってきて実際に気にしているポイントをベースに、番手・ギア比・予算の3つに分けて選び方をまとめました。
 
 ---
 
 ## 番手は2500〜4000番
 
+リールの「番手」は、リールの大きさと糸巻き量を表す数字です。数字が大きいほどボディもスプールも大きくなり、太い糸をたくさん巻けて遠投にも有利になりますが、その分重くなります。
+
 SLSでよく使われるのは**2500〜4000番**です。
 
-- **2500番**：軽さを重視したい人向け。ロッドとのバランスも取りやすい
-- **3000番**：軽さと遠投性能のバランスをとりたい人向け
-- **4000番**：遠投性能を少しでも上げたい人向け
+- **2500番**：軽さを重視したい人向け。ロッドとのバランスも取りやすく、一日中シャクっても疲れにくい
+- **3000番**：軽さと遠投性能のバランスをとりたい人向け。迷ったときの中間的な選択肢
+- **4000番**：遠投性能を少しでも上げたい人向け。糸巻き量にも余裕があり、サーフなど広い場所で活きる
 
-ロッドとの組み合わせも参考にしてください。
+基本は「ロッドの長さ・パワーに合わせる」のがコツです。軽いロッドに大きいリールを付けるとバランスが崩れて扱いにくくなるので、下の組み合わせを参考にしてください。
 
 | ロッド | おすすめ番手 |
 |--------|-----------|
@@ -34,9 +36,13 @@ SLSでよく使われるのは**2500〜4000番**です。
 
 ## ギア比はハイギア（HG）一択
 
-SLSはワンピッチジャークでリズムよくジグを動かす釣りなので、**ハイギア（HG）**が向いています。
+ギア比は、ハンドル1回転でどれだけ糸を巻き取れるかを表す数字です。数字が大きいほど一気に多くの糸を巻ける「ハイギア」になります。
 
-糸ふけを素早く回収できるのでテンポよく操作でき、青物がかかったときの巻き取りも速い。ノーマルギアだと手返しが悪くなる場面が多いです。
+SLSはワンピッチジャーク（ハンドル1回転でジグを1回シャクる）でリズムよくジグを動かす釣りなので、**ハイギア（HG）**が向いています。
+
+理由は2つです。1つは、シャクった後に出る糸ふけ（たるみ）を素早く回収できるので、テンポよく操作できること。もう1つは、青物がかかったときに速く巻き寄せられて、根や障害物に潜られにくいことです。
+
+ノーマルギアでも釣りはできますが、手返しが悪くなり、手数で誘うSLSとは少し相性が悪い場面が多いです。型番に「HG」や「XG」と付いているものを選べばハイギアです。
 
 ---
 
@@ -44,7 +50,9 @@ SLSはワンピッチジャークでリズムよくジグを動かす釣りな�
 
 ### 1万円前後｜個人的にはおすすめしません
 
-価格は魅力ですが、耐久性や巻き心地で上位モデルとの差が大きく出ます。釣りを続けていくなら結果的に買い直しになることが多いです。
+価格は魅力ですが、耐久性や巻き心地で上位モデルとの差が大きく出ます。塩がらみや巻きのゴロつきが早めに出やすく、釣りを続けていくなら結果的に買い直しになることが多いです。
+
+「とりあえず1回試してみたい」「年に数回だけ」という人なら入門用として割り切るのもアリですが、続ける前提ならあまりおすすめしません。
 
 <table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/ichiba/5417b8e9.1a477f60.5417b8ea.689fa3f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoint-eastjapan%2F4550133541926%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/5417b8e9.1a477f60.5417b8ea.689fa3f8/?me_id=1333720&item_id=17712774&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fpoint-eastjapan%2Fcabinet%2F926%2F4550133541926.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;display: block;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/5417b8e9.1a477f60.5417b8ea.689fa3f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoint-eastjapan%2F4550133541926%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;">ダイワ スピニングリール 26 フリームス LT2500S-XH</a><br><span >価格：15,554円（税込、送料別)</span> <span style="color:#BBB">(2026/5/23時点)</span></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/ichiba/5417b8e9.1a477f60.5417b8ea.689fa3f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoint-eastjapan%2F4550133541926%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0" ></a><a href="https://hb.afl.rakuten.co.jp/ichiba/5417b8e9.1a477f60.5417b8ea.689fa3f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpoint-eastjapan%2F4550133541926%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;"> 楽天で購入 </div></a></div></td></tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>
 
@@ -54,7 +62,9 @@ SLSはワンピッチジャークでリズムよくジグを動かす釣りな�
 
 ### 2〜3万円｜使えはしますが…
 
-釣りに毎週行くような使い方をするなら、あまりおすすめしません。使えはしますが、使用頻度が高いと耐久性の差が出やすいです。月数回程度なら十分な選択肢です。
+いわゆる「中級機」と呼ばれる価格帯で、巻き心地や軽さは1万円クラスからしっかり良くなります。月に数回程度の使用なら、十分実用的でコストパフォーマンスの高い選択肢です。
+
+ただし、毎週のように釣りに行くヘビーな使い方をするなら、長い目で見ると耐久性の差が出やすいゾーンでもあります。使用頻度と相談して選ぶといいと思います。
 
 <table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/ichiba/5415eeb8.38930417.5415eeb9.96a7d725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcasting%2F4550133442483%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/5415eeb8.38930417.5415eeb9.96a7d725/?me_id=1311623&item_id=10569451&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fcasting%2Fcabinet%2Fxm308%2F4550133442483.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;display: block;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/5415eeb8.38930417.5415eeb9.96a7d725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcasting%2F4550133442483%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;">ダイワ スピニングリール 25カルディア LT2500S-XH</a><br><span >価格：22,561円（税込、送料別)</span> <span style="color:#BBB">(2026/5/23時点)</span></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/ichiba/5415eeb8.38930417.5415eeb9.96a7d725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcasting%2F4550133442483%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0" ></a><a href="https://hb.afl.rakuten.co.jp/ichiba/5415eeb8.38930417.5415eeb9.96a7d725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcasting%2F4550133442483%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;"> 楽天で購入 </div></a></div></td></tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>
 
@@ -64,9 +74,9 @@ SLSはワンピッチジャークでリズムよくジグを動かす釣りな�
 
 ### 5万円以上｜長く使えるのでおすすめ
 
-軽さ・巻き心地・耐久性が別次元で、一日中投げ続けても疲れにくい。頻繁に釣りに行くなら長期的に見てコスパが良く、個人的にはここから選ぶことをおすすめします。
+軽さ・巻き心地・耐久性がどれも別次元で、一日中投げ続けても疲れにくく、塩がらみにも強いので長く使えます。頻繁に釣りに行く人ほど、買い替えが減って長期的にはコスパが良くなります。個人的には、続けるつもりがあるならここから選ぶことをおすすめします。
 
-自分自身は安いものから入門しましたが、故障や物足りなさで結局何回も買い替えることになってしまいました。最初から初期投資することをおすすめします。
+自分自身は安いものから入門しましたが、故障や物足りなさで結局何回も買い替えることになってしまいました。「安物買いの銭失い」とはまさにこのことで、トータルで見ると最初からいいものを買ったほうが安くついたな、と感じています。だからこそ、最初に少し奮発して初期投資することをおすすめします。
 
 <table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/ichiba/5415eeb8.38930417.5415eeb9.96a7d725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcasting%2F4550133110603%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/5415eeb8.38930417.5415eeb9.96a7d725/?me_id=1311623&item_id=10505438&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fcasting%2Fcabinet%2Fxm241%2F4550133110603.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;display: block;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/5415eeb8.38930417.5415eeb9.96a7d725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcasting%2F4550133110603%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;">ダイワ スピニングリール 23エアリティ LT2500S-XH</a><br><span >価格：57,640円（税込、送料別)</span> <span style="color:#BBB">(2026/5/23時点)</span></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/ichiba/5415eeb8.38930417.5415eeb9.96a7d725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcasting%2F4550133110603%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0" ></a><a href="https://hb.afl.rakuten.co.jp/ichiba/5415eeb8.38930417.5415eeb9.96a7d725/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcasting%2F4550133110603%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;"> 楽天で購入 </div></a></div></td></tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>
 
@@ -81,5 +91,18 @@ SLSはワンピッチジャークでリズムよくジグを動かす釣りな�
 | 番手 | ロッドに合わせて2500〜4000番 |
 | ギア比 | ハイギア（HG） |
 | 予算 | 5万円以上が長く使えておすすめ |
+
+---
+
+## よくある質問
+
+**Q. シマノとダイワ、どっちがいい？**
+どちらも信頼できるメーカーで、正直好みの差です。巻き心地やデザイン、持っているロッドのメーカーに合わせるなど、フィーリングで選んで問題ありません。同じ価格帯なら大きな性能差はありません。
+
+**Q. 番手で迷ったら？**
+ロッドが決まっているならロッドに合わせるのが基本です。1台でいろいろ使いたいなら、汎用性の高い3000〜4000番を選んでおくと、SLS以外の釣りにも流用しやすくなります。
+
+**Q. リールのメンテナンスは必要？**
+海で使った後は真水で軽く塩を流して、しっかり乾かすだけでも寿命が大きく変わります。特に安価なモデルは塩に弱いので、使用後の水洗いを習慣にしておくのがおすすめです。
 
 何か質問があればコメントやSNSで気軽に聞いてください！
