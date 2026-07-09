@@ -1,0 +1,35 @@
+name: deploy
+
+on:
+  schedule:
+    # 毎週日曜 9:30 JST（UTCでは日曜 0:30）に予約公開
+    - cron: "30 0 * * 0"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout（テーマのsubmodule込み）
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.147.2"
+          extended: true
+
+      # 予約公開のため --buildFuture は付けない（未来日付の記事は日付が来るまで非公開）
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: 6f8a4fb9818cba673cdd1cfd083bab7c
+          command: pages deploy public --project-name=tsuri-blog --branch=main --commit-dirty=true
