@@ -1,6 +1,6 @@
 baseURL = "https://yuuma-fishing.com/"
 languageCode = "ja"
-title = "釣りブログ"
+title = "SLS釣りブログ"
 theme = "PaperMod"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
@@ -13,8 +13,8 @@ buildFuture = false
 ID = "G-2EWZR8LS89"
 
 [params]
-  description = "釣り初心者から上級者まで役立つ情報を発信する釣りブログ"
-  author = "釣りブログ管理人"
+  description = "スーパーライトショアジギング（SLS）を中心に、タックルの選び方や釣行記を発信する釣りブログ"
+  author = "SLS釣りブログ"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = true
@@ -25,8 +25,8 @@ ID = "G-2EWZR8LS89"
   TocOpen = false
 
   [params.homeInfoParams]
-    Title = "釣りブログへようこそ"
-    Content = "初心者から上級者まで役立つ釣り情報を発信しています。ロッド・リール・ルアーのレビューや釣り場レポートをお届けします。"
+    Title = "SLS釣りブログへようこそ"
+    Content = "スーパーライトショアジギング（SLS）を中心に発信している釣りブログです。ロッド・リール・ルアーの選び方から、実際の釣行記まで、これから始める人にも役立つ情報をお届けします。"
 
   [[params.socialIcons]]
     name = "x"
