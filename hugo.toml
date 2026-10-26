@@ -35,6 +35,9 @@ ID = "G-2EWZR8LS89"
     name = "instagram"
     url = "https://www.instagram.com/yuuma_fishing/"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
